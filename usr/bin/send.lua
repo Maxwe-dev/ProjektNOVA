@@ -5,7 +5,7 @@ local io = require("io")
 local port = 123
 modem.open(port)
 
-print("ProjektNOVA Message Relay")
+print("ProjektNOVA TeleComms Sender")
 print("Type your message and press Enter. Type 'exit' to quit.")
 
 while true do
