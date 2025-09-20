@@ -5,6 +5,7 @@ local modem = component.modem
 
 local port = 123
 modem.open(port)
+print("ProjektNOVA TeleComms Reciever")
 
 print("Listening on port", port)
 
